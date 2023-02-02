@@ -1,0 +1,21 @@
+{
+  "name": "test-99",
+  "version": "1.0.0",
+  "description": "test-99 project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test2": "echo 'Test ech'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "test",
+    "paket"
+  ],
+  "author": "pTest",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ertegin/test-99.git"
+  }
+}
